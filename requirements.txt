@@ -1,0 +1,15 @@
+certifi==2016.2.28
+chardet==3.0.4
+numpy==1.17.2
+pandas==0.25.1
+pdfminer.six==20181108
+pdfplumber==0.5.13
+Pillow==6.1.0
+pycryptodome==3.9.0
+python-dateutil==2.8.0
+pytz==2019.2
+six==1.12.0
+sortedcontainers==2.1.0
+unicodecsv==0.14.1
+Wand==0.5.7
+wincertstore==0.2
